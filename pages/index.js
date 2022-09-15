@@ -12,7 +12,7 @@ export default function Home() {
 
       <main>
         <h1>Is banana good?</h1>
-        <Header title="YES!" />
+        <h3>Yes it is, Tim</h3>
       </main>
 
       <Footer />
